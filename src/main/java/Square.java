@@ -8,7 +8,7 @@ public class Square extends BaseShape {
      */
     public Square(double length) {
         // Calls the base constructor and sets the height equal to the length since it's a square
-        super("Square", length, length);
+        super("Square", length);
     }
 
     /**
